@@ -15,3 +15,19 @@ print(math.sqrt(49)) # Returns 7.0
 # Step 2: Input format
 
 # Step 3: Output format
+
+# Task two
+# 🧑‍💻 TASK FOR YOU:
+# Create your own test cases for this problem:
+
+# Given a list of student names, and a name to search, return the index. If not found, return -1.
+
+# Write:
+
+# One normal case
+
+# One edge case (name not found)
+
+# One case with an empty list
+
+# One case with repeated names
